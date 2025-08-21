@@ -1,0 +1,11 @@
+transformers
+datasets
+streamlit
+sounddevice
+pyaudio
+librosa
+numpy
+scipy
+pandas
+notebook
+jupyter
